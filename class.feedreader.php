@@ -1,9 +1,11 @@
 <?php
 /**
  * Feedreader Class
- * This class read and display feeds from a given  RSS url.
+ * This class read and display feeds from a given RSS url.
+ * input: RSS URL, number of feed to display.
  * @author Jean Paul Delaye 
  */
+
 
 class feedreader  {
 	
